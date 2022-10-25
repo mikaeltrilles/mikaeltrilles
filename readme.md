@@ -1,4 +1,5 @@
-# Developpeur Web Full Stack![Mikael Trilles](https://github-readme-stats.vercel.app/api?username=mikaeltrilles&show_icons=true)
+# Developpeur Web Full Stack
+![Mikael Trilles](https://github-readme-stats.vercel.app/api?username=mikaeltrilles&show_icons=true)
 
 ## Salut, je suis Mikael !
 
