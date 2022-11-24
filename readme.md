@@ -29,7 +29,7 @@
 
 # 📊 Stats
 
-![Mika's github trophy](https://github-profile-trophy.vercel.app/?username=mikaeltrilles&row=1&no-bg=true&no-frame=true&theme=radical)
+![Mika's github trophy](https://github-profile-trophy.vercel.app/?username=mikaeltrilles&row=1&no-frame=true&theme=dark)
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=mikaeltrilles&no-bg=true&show_icons=true&theme=radical)
 ![Mika's github streak](https://github-readme-streak-stats.herokuapp.com/?user=mikaeltrilles&no-bg=true&theme=radical)
