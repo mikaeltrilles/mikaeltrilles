@@ -36,7 +36,7 @@
 
 
 
-<p><a href="https://www.blockchain.com/btc/address/3C5hGvDP6ajxut5i6F5eRx3NXZ9BQY9uvZ">
+<p><a href="https://www.blockchain.com/btc/address/3C5hGvDP6ajxut5i6F5eRx3NXZ9BQY9uvZ"  target="_blank">
 
 <img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white" height="50" width="210">
 
