@@ -25,7 +25,7 @@
 <a href="https://linkedin.com/in/mikaeltrilles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mikaeltrilles" height="30" width="40" /></a>
 <a href="https://fb.com/mikaeltrillesdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mikaeltrillesdev" height="30" width="40" /></a>
 <a href="https://instagram.com/mikaeltrilles.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mikaeltrilles.dev" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@mikaeltrillesdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mikaeltrillesdev" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@mikaeltrillesdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mikaeltrillesdev" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -34,12 +34,11 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mtdevweb"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mtdevweb" /></a><a href="https://ko-fi.com/mtdevweb"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="mtdevweb" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mikaeltrilles&show_icons=true&locale=en&layout=compact" alt="mikaeltrilles" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mikaeltrilles&show_icons=true&locale=en&layout=full" alt="mikaeltrilles" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mikaeltrilles&show_icons=true&locale=en" alt="mikaeltrilles" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mikaeltrilles&" alt="mikaeltrilles" /></p>
 
-
-Total Code Time 
+Total Code Time
 [![wakatime](https://wakatime.com/badge/user/933ebfa6-42e4-4a54-b3fc-658e9f1ab22f.svg)](https://wakatime.com/@933ebfa6-42e4-4a54-b3fc-658e9f1ab22f)
