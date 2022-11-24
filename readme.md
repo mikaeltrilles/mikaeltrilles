@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mikaeltrilles&label=Profile%20views&color=0e75b6&style=flat" alt="mikaeltrilles" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mikaeltrilles&theme=onedark" alt="mikaeltrilles" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mikaeltrilles&no-bg=true&no-frame=true&theme=onedark" alt="mikaeltrilles" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/mikatrilles_dev" target="blank"><img src="https://img.shields.io/twitter/follow/mikatrilles_dev?logo=twitter&style=for-the-badge" alt="mikatrilles_dev" /></a> </p>
 
