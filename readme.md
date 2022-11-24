@@ -40,8 +40,6 @@
 
 ![wakatime](https://wakatime.com/badge/user/933ebfa6-42e4-4a54-b3fc-658e9f1ab22f.svg)
 
-![HitCount](http://hits.dwyl.io/mikaeltrilles/badges.svg)
-
 # 🛠️ Tools and Technologies
 
 ## 👅 Languages
