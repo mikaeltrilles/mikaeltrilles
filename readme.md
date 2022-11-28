@@ -47,13 +47,12 @@
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badgelogo=html5&logoColor=white)](https://www.w3.org/html/)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badgelogo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
 [![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badgelogo=sass&logoColor=white)](https://sass-lang.com/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1Estyle=for-the-badge&logo=javascript&logoColor=black)](https://www.javascriptcom/)
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.javascriptcom/)
 [![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badgelogo=json&logoColor=white)](https://www.json.org/json-en.html)
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=phplogoColor=white)](https://www.php.net/)
 [![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badgelogo=mysql&logoColor=white)](https://www.mysql.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badgelogo=mysql&logoColor=white)](https://www.mysql.com/)
 [![XML](https://img.shields.io/badge/XML-000000?style=for-the-badge&logo=xmllogoColor=white)](https://www.w3.org/XML/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6style=for-the-badge&logo=typescript&logoColor=white)](https://wwwtypescriptlang.org/)
 [![Twig](https://img.shields.io/badge/Twig-222222?style=for-the-badgelogo=twig&logoColor=white)](https://twig.symfony.com/)
 [![YAML](https://img.shields.io/badge/YAML-222222?style=for-the-badgelogo=yaml&logoColor=white)](https://yaml.org/)
 [![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badgelogo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
@@ -61,14 +60,14 @@
 
 ## ⚙️ Frameworks | Bundle | Libraries
 
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7Cstyle=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrapcom/)
+[![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrapcom/)
 [![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badgelogo=jquery&logoColor=white)](https://jquery.com/)
 [![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badgelogo=symfony&logoColor=white)](https://symfony.com/)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badgelogo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svgstyle=for-the-badge&logo=Ionic&logoColor=white)](https://ionicframework.com/)
+[![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)](https://ionicframework.com/)
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badgelogo=node.js&logoColor=white)](https://nodejs.org/en/)
-[![Redux](https://img.shields.io/badge/redux-%23593d88.svgstyle=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
-[![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svgstyle=for-the-badge&logo=webpack&logoColor=black)](https://github.com/symfonywebpack-encore)
+[![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
+[![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)](https://github.com/symfonywebpack-encore)
 [![SASS](https://img.shields.io/badge/SASS-hotpink?style=for-the-badgelogo=sass&logoColor=white)](https://sass-lang.com/)
 [![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badgelogo=babel&logoColor=black)](https://babeljs.io/)
 
@@ -97,12 +96,12 @@
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badgelogo=linux&logoColor=black)](https://www.linux.org/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badgelogo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badgelogo=android&logoColor=white)](https://www.android.com/)
-[![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4Astyle=for-the-badge&logo=Raspberry-Pi&logoColor=white)](https://wwwraspberrypi.org/)
+[![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)](https://wwwraspberrypi.org/)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badgelogo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
 [![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badgelogo=debian&logoColor=white)](https://www.debian.org/)
-[![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/)
-[![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3Estyle=for-the-badge&logo=linux-mint&logoColor=white)](https://www.linuxmintcom/)
-[![Zorin OS](https://img.shields.io/badge/-Zorin%20OS-%2310AAEBstyle=for-the-badge&logo=zorin&logoColor=white)](https://zorin.com/os/)
+[![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/)
+[![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)](https://www.linuxmintcom/)
+[![Zorin OS](https://img.shields.io/badge/-Zorin%20OS-%2310AAEB?style=for-the-badge&logo=zorin&logoColor=white)](https://zorin.com/os/)
 
 ## 🌍 Browser
 
