@@ -121,6 +121,7 @@
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/mtdevweb)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/tmcorp)
 
-# 🧑‍💻 Team
+# 🧑‍💻 Team & Contributors
 
 ![Your Repository's Stats](https://contrib.rocks/image?repo=VjeremyV/projet-Kanban)
+![Your Repository's Stats](https://contrib.rocks/image?repo=mikaeltrilles/m10-projet-final-react)
