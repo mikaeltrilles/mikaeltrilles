@@ -56,15 +56,15 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=mikaeltrilles&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=mikaeltrilles&show_icons=true&theme=tokyonight&hide_border=true&v=2" alt="GitHub Stats" />
       </td>
       <td align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikaeltrilles&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mikaeltrilles&theme=tokyonight&hide_border=true&v=2" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikaeltrilles&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikaeltrilles&layout=compact&theme=tokyonight&hide_border=true&v=2" alt="Top Languages" />
 
 </div>
 
@@ -73,7 +73,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mikaeltrilles&row=1&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mikaeltrilles&row=1&theme=radical&no-frame=true&margin-w=15&v=2" alt="GitHub Trophies" />
 </p>
 
 ---
